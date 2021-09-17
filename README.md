@@ -1,4 +1,4 @@
-# Example Using Kong in docker compose
+# Example Using Kong API Gateway in docker compose
 
 ## To run
 ````bash
