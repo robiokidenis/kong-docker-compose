@@ -1,3 +1,4 @@
+#Demo Kong Api Gateway https://github.com/robiokidenis/kong-docker-compose
 version: "3.0"
 services:
   kong-database:
