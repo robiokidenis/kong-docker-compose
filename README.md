@@ -4,12 +4,12 @@
 ````bash
 docker-compose up -d
 ````
-##to stop
+## to stop
 ````bash
 docker-compose stop
 ````
 
-##access using browser 
+## access on browser 
 ````bash
 http://localhost:1337
 ````
