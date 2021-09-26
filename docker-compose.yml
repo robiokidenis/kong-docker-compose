@@ -4,7 +4,7 @@ services:
     image: postgres:9.6 ##cant used alpine 
     restart: always
     volumes:
-	  - ./db-data/:/var/lib/postgresql/data/
+      - ./db-data/:/var/lib/postgresql/data/
     environment:
       - POSTGRES_USER=user
       - POSTGRES_PASSWORD=password
